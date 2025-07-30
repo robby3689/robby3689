@@ -63,3 +63,4 @@
 
 > _“Consistency is what transforms average into excellence.”_  
 > — Keep grinding. Stay humble. Grow daily.
+![Snake animation](https://github.com/robby3689/robby3689/blob/output/github-contribution-grid-snake.svg)
