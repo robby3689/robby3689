@@ -11,7 +11,7 @@
 
 ### 🔗 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-graphicaWork.xyz-blueviolet?style=flat-square)](https://graphicawork.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sachin-ca73/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/robby3689/)
 [![Email](https://img.shields.io/badge/Email-sachin.ca73@gmail.com-red?style=flat-square)](mailto:sachin.ca73@gmail.com)
 
 ---
@@ -38,9 +38,9 @@
 
 ### 📊 GitHub Stats
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin-ca73&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-ca73&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=sachin-ca73&theme=tokyonight&hide_border=false)
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robby3689&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robby3689&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=robby3689&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -63,4 +63,3 @@
 
 > _“Consistency is what transforms average into excellence.”_  
 > — Keep grinding. Stay humble. Grow daily.
-
