@@ -5,7 +5,7 @@
 
 🚀 Passionate about building beautiful, functional web apps that solve real problems. Currently developing full-stack projects using React, Firebase, MongoDB, and Express, while also enhancing my design skills with Figma and Tailwind CSS.
 
-🧠 I’m focused on becoming job-ready for front-end and full-stack roles in Canada, while also growing my personal ed-tech brand **NextBoolean** and design agency **GraphicaWork**.
+🧠 I’m focused on becoming job-ready for front-end and full-stack roles in Canada, while also growing my personal design brand **GraphicaWork**.
 
 ---
 
