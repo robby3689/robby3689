@@ -17,10 +17,9 @@ HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
 Figma, VS Code, GitHub
 
 ### Current Focus
-- Capstone project for HTTP 5310
-- Improving JavaScript fundamentals
+- Capstone project
+- Improving MERN tech
 - Building small projects to strengthen full-stack concepts
-- Preparing for internships and entry-level roles in web development
 
 ### Portfolio & Contact
 Portfolio: https://graphicawork.xyz  
