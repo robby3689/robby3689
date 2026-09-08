@@ -22,6 +22,6 @@ Figma, VS Code, GitHub
 - Building small projects to strengthen full-stack concepts
 
 ### Portfolio & Contact
-Portfolio: https://graphicawork.online
-LinkedIn: https://www.linkedin.com/in/robby3689  
-Email: sachin.ca73@gmail.com
+-Portfolio: https://graphicawork.online
+-LinkedIn: https://www.linkedin.com/in/robby3689  
+-Email: sachin.ca73@gmail.com
